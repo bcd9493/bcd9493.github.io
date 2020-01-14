@@ -1,0 +1,12 @@
+body {background-color: gray;}
+h1{
+color: red; 
+font-size: 50px;
+}
+h2{
+color: green;
+}
+h1, h2 {color: purple;}
+.food {color:orange;}
+li {color: blue;}
+img.mustache {width: 300px;}

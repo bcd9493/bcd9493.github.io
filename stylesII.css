@@ -1,0 +1,12 @@
+.navbar {margin-left: 90px; margin-right: 100px;}
+.nav-link {color:black; font-weight: bold;}
+.icon-bar {background-color: white;}
+body {background-color: black; background-image: url(Jimmy\ Piano.jpg);}
+h1{color: black; outline: whitesmoke; font-size: 100px; text-align:left; }
+h2{color: whitesmoke; font-size: 50px; font-family: 'dancing+scrip', 'cursive';margin-bottom: 40px; 
+    text-align:left;}
+.jumbotron {font-family: 'satisfy', 'cursive';
+    background-color: transparent; background-size: cover;}   
+li {color: blue;}
+.display-4 {font-size: 100px; }
+

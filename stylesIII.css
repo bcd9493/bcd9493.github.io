@@ -2,11 +2,11 @@
 .nav-link {color: white; font-weight: bold;}
 body {background-color: lightpink; color:whitesmoke}
 .jumbotron {font-family: 'Zhi Mang Xing'; color: whitesmoke;
-    background-image: url(WeddingBells.jpg); background-size: cover;margin-left: 100px; margin-right: 110px} 
-.display-4 {font-size: 125px; text-align: left; text-shadow:  1px 1px 1px black}  
+    background-image: url(WeddingBells.jpg); background-size: cover; margin: auto} 
+.display-4 {font-size: 100px; text-align: left; text-shadow:  1px 1px 1px black}  
 .first img {height:500px; width: 350px; ;}
-.Second img {margin-left: 60px; height: 500px; width: 350px}
-.Third img {margin-left: 60px; height: 500px; width: 350px}
+.Second img {margin: auto; height: 500px; width: 350px}
+.Third img {margin: auto; height: 500px; width: 350px}
 h3 {font-size: 150px; text-align: center}
 h1 {font-size: 75px; text-align: center}
 h2 {font-size: 100px; text-align: center}

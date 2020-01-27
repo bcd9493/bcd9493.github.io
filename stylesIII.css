@@ -2,8 +2,12 @@
 .nav-link {color: white; font-weight: bold;}
 body {background-color: lightpink; color:whitesmoke}
 .jumbotron {font-family: 'Zhi Mang Xing'; color: whitesmoke;
-    background-image: url(WeddingBells.jpg); background-size: cover;margin-left: 100px; margin-right: 110px}   
+    background-image: url(WeddingBells.jpg); background-size: cover;margin-left: 100px; margin-right: 110px} 
+.display-4 {font-size: 150px; text-align: center; text-shadow:  1px 1px 1px black}  
 .first img {height:500px; width: 350px; ;}
+.Second img {margin-left: 110px}
 h3 {font-size: 150px; text-align:center}
 h4 {font-size: 20px; text-align: center}
-.hiking img {height:100px; width: 150px; margin: auto; background-color: whitesmoke;}
+h1 {font-size: 75px; text-align: center}
+h2 {font-size: 100px; text-align: center}
+.btn {background-color:black; border-color: black; color: white}

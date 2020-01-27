@@ -5,8 +5,8 @@ body {background-color: lightpink; color:whitesmoke}
     background-image: url(WeddingBells.jpg); background-size: cover; margin: auto} 
 .display-4 {font-size: 100px; text-align: left; text-shadow:  1px 1px 1px black}  
 .first img {height:500px; width: 350px; ;}
-.Second img {margin: auto; height: 500px; width: 350px}
-.Third img {margin: auto; height: 500px; width: 350px}
+.Second img {display:block; margin: auto; height: 500px; width: 350px}
+.Third img {display: block; margin: auto; height: 500px; width: 350px}
 h3 {font-size: 150px; text-align: center}
 h1 {font-size: 75px; text-align: center}
 h2 {font-size: 100px; text-align: center}

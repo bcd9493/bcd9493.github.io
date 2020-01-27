@@ -3,10 +3,10 @@ body {background-color: whitesmoke;}
 h1{color: whitesmoke; font-size: 100px; text-align:left; }
 h2{color: black; font-size: 50px; font-family: 'dancing+scrip', 'cursive';margin-bottom: 40px; text-align:left;}
 .jumbotron {font-family: 'satisfy', 'cursive'; 
-    background-image: url(Cool.jpg); background-size: cover;}   
-li {color: blue;}
+    background-image: url(Cool.jpg); background-size: cover;}
 .first img {height:200px; width: 350px; margin: auto;}
 .display-4 {font-size: 100px; }
 h3 {font-size: 20px}
 h4 {font-size: 12px; text-decoration: underline;}
 .hiking img {height:100px; width: 150px; margin: auto; background-color: whitesmoke;}
+.fas {color: black}

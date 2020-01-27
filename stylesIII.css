@@ -2,7 +2,7 @@
 .nav-link {color: white; font-weight: bold;}
 body {background-color: lightpink; color:whitesmoke}
 .jumbotron {font-family: 'Zhi Mang Xing'; color: whitesmoke;
-    background-image: url(WeddingBells.jpg); background-size: cover; margin-left: 60px; margin-right: 110px} 
+    background-image: url(WeddingBells.jpg); background-size: cover;} 
 .display-4 {font-size: 125px; text-align: center; text-shadow:  1px 1px 1px black}  
 .first img {height:500px; width: 350px; ;}
 .Second img {margin-left: 60px; height: 500px; width: 350px}
